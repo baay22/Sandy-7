@@ -166,19 +166,14 @@ nav.nav-menu {
     font-size: 28px;
     margin-left: 100px;
   }
-  h3 { font-size: 25px;
-    margin-left: 100px;
-    color: #313030;
-    padding-bottom: 10px;
-  }
   h4 {
-    font-size: 30px;
+    font-size: 35px;
     padding-top: 10px;
     padding-bottom: 2px;
    padding-right: 15px;
    margin-left: 100px;
    margin-right: 45px;
-   color: #313030;
+   color: #444141;
   }
   h5 { 
     font-size: 30px;
